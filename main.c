@@ -101,13 +101,6 @@ int state = 1;//right side
 void display()
 {
 
-	char a[]="-: PARACHUTE ANIMATION :-";
-    char b[]="RIGHT CLICK TO SEE THE MENU";
-    char c[]=": TO START THE WINDOW PRESS ENTER :";
-    char d[]="KAVYA H M";
-    char e[]="4GH19CS025";
-    char f[]="BY :-";
-
 	glClear(GL_COLOR_BUFFER_BIT);
     glLoadIdentity();
 	cloud();
